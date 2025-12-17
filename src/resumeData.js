@@ -1,7 +1,7 @@
 let resumeData = {
     "name": "Jay Goel",
     "role": "",
-    "roleDescription": "I am a 3rd-year undergraduate at IIT Ropar, pursuing B.Tech in Electrical Engineering. I am passionate about machine learning and web development, exploring new technologies and applying them in real-world projects. My curiosity drives me to constantly learn and build innovative solutions.",
+    "roleDescription": "I am a 4th-year undergraduate at IIT Ropar, pursuing B.Tech in Electrical Engineering. I am passionate about machine learning and web development, working on projects that combine research, practical applications, and innovative solutions. I actively explore new technologies, implement end-to-end systems, and contribute to impactful projects that bridge theory and real-world use",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -10,7 +10,7 @@ let resumeData = {
         },
         {
           "name":"github",
-          "url":"https://github.com/JayGoel07/JayGoel07",
+          "url":"https://github.com/JayGoel07",
           "className":"fa fa-github"
         },
         {
@@ -26,7 +26,7 @@ let resumeData = {
         "specialization":"Electrical Engineering",
         "MonthOfPassing":"Bachelors in Technology",
         "YearOfPassing":"2026",
-        "Achievements" : "Currently studying in 5th sem with the CGPA of 8.9"
+        "Achievements" : "Currently studying 8th sem with the CGPA of 8.67"
       },
       {
         "UniversityName":"D.A.V. Noida, Uttar Pradesh, India",
@@ -48,8 +48,15 @@ let resumeData = {
         "CompanyName":"Research Internship",
         "specialization":"IIT Roorkee",
         "MonthOfLeaving":"",
-        "YearOfLeaving":"May 2024 - Present",
-        "Achievements":"Working on machine learning and deep learning expertise on mainly image classification and many more."
+        "YearOfLeaving":"May 2024 - Dec 2024",
+        "Achievements":" Researched Convolutional Neural Networks (CNNs) and their variants, including Equivariant and Steerable CNNs, focusing on improving generalization and accuracy in complex visual recognition task"
+      },
+      {
+        "CompanyName":"Novus Hi-Tech Robotic Systems Ltd.",
+        "specialization":"Summer Internship (Data Analytics)",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"Jun 2025 - Dec 2025",
+        "Achievements":"Built interactive dashboards for data visualization and monitoring, integrating real-time updates and analytics. Additionally, worked with FFmpeg to process and manipulate audio/video streams programmatically, enabling automation and efficient media handling"
       }
     ],
     "skillsDescription":" Efficient skills ",
@@ -65,7 +72,7 @@ let resumeData = {
       }, 
       
       {
-        "skillname":"Machine Learning"
+        "skillname":"Machine Learning, Web Development, Data Analysis"
       }
     ],
     "portfolio":[
@@ -79,7 +86,7 @@ let resumeData = {
         "name":"Full Stack Website",
         "description":"Web development Project",
         "imgurl":"images/portfolio/yelpcamp.png",
-        "url":"https://github.com/JayGoel07/fullstack-website.git"
+        "url":"https://fullstack-website-766k.onrender.com/"
       },
       {
         "name":"Sentiment Analysis",
