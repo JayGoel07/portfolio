@@ -18,7 +18,6 @@ let resumeData = {
           "url" : "https://www.instagram.com/je_suis_jaygoel/", 
           "className":"fa fa-instagram"
         }
-        
       ],
     "education":[
       {
@@ -26,7 +25,7 @@ let resumeData = {
         "specialization":"Electrical Engineering",
         "MonthOfPassing":"Bachelors in Technology",
         "YearOfPassing":"2026",
-        "Achievements" : "Currently studying 8th sem with the CGPA of 8.67"
+        "Achievements" : "Currently studying 8th sem with the CGPA of 8.68"
       },
       {
         "UniversityName":"D.A.V. Noida, Uttar Pradesh, India",
@@ -99,6 +98,23 @@ let resumeData = {
         "description":"Machine Learning",
         "imgurl":"images/portfolio/classify.png",
         "url":"https://github.com/JayGoel07/JayGoel07.git"
+      }, 
+      {
+        "name":"Agentic AI ChatBot",
+        "description":"Made on SerpAPI and Gemini",
+        "imgurl":"images/portfolio/agentic_ai.png",
+        "url":"https://aipojectforme-obwp57w92-jaygoel07s-projects.vercel.app/"
+      }, 
+      {
+        "name":"Pathfinding Visualizer",
+        "description":"DSA - Algorithms Visualizer",
+        "imgurl":"images/portfolio/pathfinding.png",
+        "url":"https://pathfinding-sable.vercel.app/"
+      }, {
+        "name":"Mutli Modal Document AI",
+        "description":"Bert, ViT, OCR",
+        "imgurl":"images/portfolio/classify.png",
+        "url":"https://github.com/JayGoel07/multi-modal-doc-ai"
       }
     ]
   }
